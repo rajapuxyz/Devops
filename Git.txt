@@ -1,0 +1,14 @@
+  Git 
+-----------------------------
+- Disturbted VCS
+- Work @ offline
+
+
+
+Diff b/w SVN and GIT (Disturbted VCS) : 
+SVN : In SVN the developer directly comit his code to SVN server he/she can not share his code to anyone and he can not work offline.
+GIT : In GIT developer work offline and he can share his code to anyone without taking help of the Git remote repository that the reason we called it as distributed VCS.
+
+Clone: The first time we can get the code from remote repository to local its called the clone (In SVN  its called as checkout here also no need to checkout again just update thats it). second time onwords we can get the updated code by using "PULL" no need to clone again.
+	
+	
